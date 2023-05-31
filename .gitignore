@@ -1,3 +1,17 @@
 data
 test_car
 *.jpg
+NOT
+*.yaml
+logdir
+*.mp4
+.ipynb_checkpoints
+*.pyc
+configs
+logs
+__init__*
+*pth
+Model
+loss
+*.h5
+.txt
